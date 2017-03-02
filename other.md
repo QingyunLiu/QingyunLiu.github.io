@@ -1,0 +1,5 @@
+# other
+
+```
+printf("hello world!")
+```
